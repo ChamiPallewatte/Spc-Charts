@@ -1,0 +1,57 @@
+# Node.js
+node_modules/
+
+# Build and development files
+build/
+dist/
+*.log
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Automatically generated coverage reports
+coverage/
+
+# Log files
+*.log
+
+# Environment variables
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Compiled files (e.g., .ts, .jsx, .js, .map)
+*.js
+*.jsx
+*.mjs
+*.cjs
+*.ts
+*.tsx
+*.json
+
+# Cache and build directories
+.cache/
+dist/
+build/
+
+# ESLint and Prettier cache
+.eslintcache/
+.prettier/
+
+# Jest test result files
+coverage/
